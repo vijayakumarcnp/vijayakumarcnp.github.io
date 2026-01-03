@@ -73,9 +73,9 @@ we are helping you create memories around the table.
 Come step inside, take a deep breath, and   
 let your culinary journey begin.
 
-<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1765979648/smt-display-500x882_z29wqs.jpg"style="height:64px;margin-right:32px"/> </a>
+<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1765979648/smt-display-500x882_z29wqs.jpg" style="height:64px;margin-right:32px"/> </a>
 
-<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1766121548/smt-cardamom-500x500_scpmwq.jpg"style="height:64px;margin-right:32px"/> </a>
+<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1766121548/smt-cardamom-500x500_scpmwq.jpg" style="height:64px;margin-right:32px"/> </a>
 
-<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1765974492/smt_owner_500x580_wnrl5p.png"style="height:64px;margin-right:32px"/> </a>
+<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1765974492/smt_owner_500x580_wnrl5p.png" style="height:64px;margin-right:32px"/> </a>
 
