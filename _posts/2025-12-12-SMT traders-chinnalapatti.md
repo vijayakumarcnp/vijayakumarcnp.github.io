@@ -33,9 +33,9 @@ directly to your pantry.
 <div class="table-wrapper" markdown="block">
 | Product Name     | Cost  | Quantity | Status      |
 | :---             | :---: | :---:    | ---:        |
-| Green garden tea | $100  | 1        | **1 left**  |
-| Masala tea       | $100  | 2        | Available   |
-| Cardamom - green | $200  | 5        | Available   |
+| Green garden tea | $xx  | 1        | **1 left**  |
+| Masala tea       | $xx  | 2        | Available   |
+| Cardamom - green | $xx  | 5        | Available   |
 
 </div>
 ---
@@ -73,9 +73,9 @@ we are helping you create memories around the table.
 Come step inside, take a deep breath, and   
 let your culinary journey begin.
 
-<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1765979648/smt-display-500x882_z29wqs.jpg"/> </a>
+<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1765979648/smt-display-500x882_z29wqs.jpg"style="height:64px;margin-right:32px"/> </a>
 
-<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1766121548/smt-cardamom-500x500_scpmwq.jpg"/> </a>
+<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1766121548/smt-cardamom-500x500_scpmwq.jpg"style="height:64px;margin-right:32px"/> </a>
 
-<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1765974492/smt_owner_500x580_wnrl5p.png"/> </a>
+<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1765974492/smt_owner_500x580_wnrl5p.png"style="height:64px;margin-right:32px"/> </a>
 
